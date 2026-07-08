@@ -10,3 +10,4 @@
 5- Criar os arquivos necessários (Ex: index.html, index.js).  
 6- Após realizar o desafio, subir a branch pro github com o desafio.  
 7- Solicitar o Pull-Request nesse repositório.  
+8- **Enviar o Link do seu repositório para o Classroom, comprovando que foi enviado dentro do prazo.**
